@@ -39,6 +39,4 @@ I've participated in **hackathons, coding competitions, and open-source projects
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nasiha-14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-<h3><img src= "https://profile-counter.glitch.me/nasiha-14/count.svg?"  /></h3>
-</div>
+
